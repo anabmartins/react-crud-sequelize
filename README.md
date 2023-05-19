@@ -24,7 +24,7 @@ Para executar o projeto em sua máquina local, siga as etapas abaixo:
 
 1. Clone este repositório para o seu diretório local:
 
-`git clone https://github.com/anabmartins/react-crud-sequelize.git`
+```git clone https://github.com/anabmartins/react-crud-sequelize.git```
 
 2. Navegue até o diretório do projeto:
 
